@@ -5,16 +5,6 @@
 <div align="center">
 <!--     <img src="" style="width:600px;"> -->
     </div> 
-<div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;" align="center">  
-<!--     <a href=''> FURNATURE 시연 사이트 클릭</a> -->
-    <div><h4>시연 계정 </h4></div>
-    <div>1. 고객</div>
-    <div>ID : user1</div>
-    <div>PW : user1</div><br>
-    <div>2. 관리자</div>
-    <div>ID : admin</div>
-    <div>PW : admin</div>
-    </div> 
 <div style="text-align:left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💡 Project Introduction </h2>
      <ul>
@@ -35,27 +25,27 @@
         </li>
     </ul>
 </div>
-<div style= "text-align:left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗓 개발 기간 </h2>  
+<div style="text-align:left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗓 Development Timeline </h2>  
     <ul>
         <li> <h4>09/05 ~ 09/11</h4>
             <ul>
-                <li>프로젝트 기획 회의(일별 2시간)</li>
-                <li>프로젝트 컨셉 및 DB 테이블 설계</li>
+                <li>Project planning meetings (2 hours daily)</li>
+                <li>Conceptualization of the project and database table design</li>
             </ul>
         </li>
         <li> <h4>09/12 ~ 10/02</h4>
             <ul>
-                <li>프로젝트 개발 진행</li>                    
+                <li>Ongoing project development</li>                    
             </ul>
         </li>
         <li> <h4>10/02 ~ 10/07</h4>
             <ul>
-                <li>각 페이지에서 개선할 점과 보완할 점 수정</li>                          
+                <li>Refining and enhancing each page based on feedback and improvements</li>                          
             </ul>
         </li>
     </ul>
-</div>    
+</div>
 <div style= "text-align:left;"> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
