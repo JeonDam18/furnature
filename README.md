@@ -15,22 +15,22 @@
     <div>ID : admin</div>
     <div>PW : admin</div>
     </div> 
-<div style= "text-align:left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💡 프로젝트 소개 </h2>
+<div style="text-align:left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💡 Project Introduction </h2>
      <ul>
-        <li>  <h4>합리적인 가구 구매를 위한 커스텀 가구 쇼핑몰 </h4>
+        <li>  <h4>Custom Furniture Shopping Mall for Reasonable Purchases </h4>
             <ul>
-                <li>필요한 제품을 쉽게 선택하고 구매할 수 있는 효율적인 플랫폼을 제공하고자  획일화된 규격이 아니라 소비자가 원하는 규격을 검색 및 설정할 수 있게 함으로써 보다 실용적인 쇼핑몰을 구성하였습니다.</li>
+                <li>We created a practical platform where customers can easily select and purchase the products they need. Instead of offering standard-sized furniture, we allow consumers to search and set their own specifications, creating a more personalized shopping experience.</li>
             </ul>
         </li>
-        <li>  <h4>가구 구매 방식의 다양화 </h4>
+        <li>  <h4>Diverse Purchasing Options for Furniture </h4>
             <ul>
-                <li>좋은 가구를 합리적인 가격에 구매할 수 있는 경매 페이지와,  자체제작 경험을 제공하는 원데이 클래스를 통해 소비자들이 가구 구매 과정에서 일반적인 제품 구매 방식 외에도 다양하고 창의적인 경로를 택할 수 있게 하였습니다.</li>                    
+                <li>We offer various creative ways for customers to purchase furniture, such as an auction page where they can buy high-quality furniture at reasonable prices, and a "one-day class" experience where they can try making their own furniture. These options                     provide consumers with more creative alternatives to the conventional buying process.</li>                    
             </ul>
         </li>
-        <li>  <h4>소비자들의 니즈를 고려한 게시판 </h4>
+        <li>  <h4>Boards Tailored to Consumers' Needs </h4>
             <ul>
-                <li>가구와 홈 인테리어에 관심이 많은 소비자층을 고려해 디자인 추천 게시판과 Q&A 게시판을 만들었습니다. 디자인 추천 게시판의 경우, 가장 많은 추천을 받은 디자인이 이달의 디자인으로 선정되어 고객들의 참여를 유도합니다.</li>                          
+                <li>Considering the interests of consumers who are passionate about furniture and home interior design, we created a design recommendation board and a Q&A board. On the design recommendation board, the most popular designs of the month are featured as                         "Design of the Month," encouraging customer participation.</li>                          
             </ul>
         </li>
     </ul>
