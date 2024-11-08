@@ -50,7 +50,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
     <div style= "text-align:left;">
-    <h2 tabindex="-1" class="heading-element" dir="auto" >👨‍👩‍👦‍👦 팀원 구성</h2>
+    <h2 tabindex="-1" class="heading-element" dir="auto" >👨‍👩‍👦‍👦 Team Members</h2>
         <table >
             <tr>
                 <th>Name</th>                    
@@ -92,10 +92,10 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📕 발표 PPT </h2>  
        <a href="" target="_blank">▶FURNATURE 발표 PPT</a>
        </div>           -->
-   <!--    <div style= "text-align:left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎞 시연 영상 </h2>    
-      <a href="https://www.youtube.com/watch?">▶FURNATURE 시연영상</a>
-    </div> -->
+    <div style= "text-align:left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎞 Demonstration Video</h2>    
+      <a href="https://youtu.be/c08y3F-U16Q">▶FURNATURE Demonstration Video</a>
+    </div>
     <div style= "text-align:left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; ">   🙋‍♂️My Role </h2>       
        <ul>            
